@@ -16,5 +16,5 @@
 
 #### 界面说明
 
-<img src="E:\2大二上课程\数字逻辑\大作业\final-project\FPGA-Greedy-Snake\README.assets\image-20210625215944103.png" alt="image-20210625215944103" style="zoom:50%;" />
+<img src="./README.assets/image-20210625215944103.png" alt="image-20210625215944103" style="zoom:50%;" />
 
